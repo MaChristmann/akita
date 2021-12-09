@@ -33,5 +33,6 @@
   "peerDependencies": {
     "rxjs": "*"
   },
-  "schematics": "./schematics/collection.json"
+  "schematics": "./schematics/collection.json",
+  "type": "module"
 }
